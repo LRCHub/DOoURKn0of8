@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "JELLY",
+  "base_artist": "Number_i",
+  "createdAt": "2025-12-03T06:27:22.507420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Son Of The Dirty South (feat. Jelly Roll)",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/01_Son_Of_The_Dirty_South_(feat._Jelly_Roll)_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Peanutbutter+Jelly",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/02_Peanutbutter+Jelly_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jelly",
+      "artist": "Laurel Halo",
+      "has_synced": false,
+      "path": "select/03_Jelly_Laurel_Halo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jelly",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/04_Jelly_IDK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Groove Is in the Heart (Jelly Jam Beats)",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/05_Groove_Is_in_the_Heart_(Jelly_Jam_Beats)_Deee-Lite.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Groove Is in the Heart (Jelly Jam Beats)",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/06_Groove_Is_in_the_Heart_(Jelly_Jam_Beats)_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peanut Butter And Jelly",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/07_Peanut_Butter_And_Jelly_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peanut Butter & Jelly",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/08_Peanut_Butter_&_Jelly_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jelly Roll",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/09_Jelly_Roll_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jelly Roll - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/10_Jelly_Roll_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jelly Beans",
+      "artist": "Daniel Johnston",
+      "has_synced": false,
+      "path": "select/11_Jelly_Beans_Daniel_Johnston.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Don't Use Jelly",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/12_She_Don't_Use_Jelly_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JELLY",
+      "artist": "Number_i",
+      "has_synced": false,
+      "path": "select/pl_01_JELLY_Number_i.txt"
+    }
+  ]
+}
